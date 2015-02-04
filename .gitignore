@@ -113,3 +113,4 @@ UpgradeLog*.XML
 
 newrelic.json
 *.orig
+.nuget/NuGet.exe
